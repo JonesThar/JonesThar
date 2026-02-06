@@ -1,7 +1,7 @@
 # Olá, me chamo Thársyla Jones 👋
 
 - 🚀 Atualmente atuo como Analista de Help Desk Jr. na MobApps;
-- 💻 Tenho buscado conhecimento na área de desenvolvimento, em especial Front-end;
+- 💻 Aqui registro meus estudos e projetos na área de desenvolvimento, em especial Front-end;
 - 🏫 Em 2022, iniciei o curso de Análise e Desenvolvimento de Sistemas na Universidade Católica do Salvador, onde já fui monitora das disciplinas de Lógica de Programação e Algoritmos e Programação Orientada a Objetos. Em 2024, iniciei o curso de Bacharelado em Engenharia de Software na mesma instituição.
 
 ## 📚 Estou aprendendo
